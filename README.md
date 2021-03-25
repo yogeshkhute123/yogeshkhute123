@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogeshkhute123
+- 👋 Hi, I’m @yogesh khute
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Full stack data science at ineuron
 - 💞️ I’m looking to collaborate on 
